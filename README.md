@@ -1,95 +1,202 @@
-# Hey, I'm Apip 👋
+<!-- ==================== HERO ==================== -->
 
-💻 Junior Web Developer  
-🚀 Building my way forward.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:60A5FA&height=220&section=header&text=Hey,%20I'm%20Apip%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Building%20my%20way%20forward.&descAlignY=61&descSize=16"
+    width="100%"
+  />
+</p>
 
-I'm learning web development by building things,
-breaking things, and figuring out how they work. 🧩
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+web+applications+%F0%9F%92%BB;Learning+by+building+%F0%9F%9A%80;Breaking+things+and+figuring+them+out+%F0%9F%A7%A0;Improving+one+project+at+a+time+%F0%9F%94%A5"
+    alt="Typing animation"
+  />
+</p>
 
----
+<br>
 
-## 👨‍💻 A little about me
+
+<!-- ==================== ABOUT ==================== -->
+
+## 👋 A Little About Me
 
 I'm a junior web developer who enjoys building web applications
 and learning through real projects.
 
-I like exploring how things work 🔍, improving my fundamentals 🧠,
-and turning ideas into something useful 🛠️.
+I like exploring how things work, improving my fundamentals,
+and turning ideas into something useful.
 
----
+> 💻 Build things  
+> 🧠 Learn things  
+> 🔧 Fix things  
+> 🚀 Keep improving
 
-## 🚧 Currently working on
 
-🔹 Improving my programming fundamentals  
-🔹 Learning JavaScript more deeply ⚡  
-🔹 Building web applications with Laravel & React ⚛️  
-🔹 Working on personal projects 🚀  
-🔹 Writing better and cleaner code ✨
+<!-- ==================== TECH STACK ==================== -->
 
----
+## ⚡ Tech Stack
 
-## 🎯 Featured Project
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/inertia/6B7280" width="48" height="48" alt="Inertia.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+</p>
+
+
+<!-- ==================== PROJECT ==================== -->
+
+## 🚀 Currently Building
 
 ### 💳 EduPayment SPP
 
-A web-based school payment management application
-designed to manage student payment information and status.
+A web application for managing and monitoring student tuition payments.
 
-🛠️ `Laravel` `React` `Inertia.js` `MySQL` `Tailwind CSS`
+**What I'm working on:**
 
-🔗 **View Project →**
+- 💳 Payment management
+- 📄 Invoice tracking
+- 📊 Dashboard & statistics
+- 🔐 Authentication
+- 📈 Payment status monitoring
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="32" alt="Laravel" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/inertia/6B7280" width="32" alt="Inertia.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" alt="Tailwind CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
+</p>
 
-## 🧰 Tools I use
 
-💙 **Languages**
+<!-- ==================== LEARNING ==================== -->
 
-`PHP` · `JavaScript` · `HTML` · `CSS`
+## 🧠 Currently Learning
 
-⚡ **Frameworks**
+I'm focusing more on understanding the fundamentals,
+not just making the code work.
 
-`Laravel` · `React` · `Inertia.js` · `Tailwind CSS`
+<p align="left">
+  🟨 JavaScript &nbsp;&nbsp;
+  🧩 Programming Logic &nbsp;&nbsp;
+  🌐 Laravel API &nbsp;&nbsp;
+  ⚛️ React
+</p>
 
-🔧 **Tools**
 
-`MySQL` · `Git` · `GitHub` · `VS Code`
+<!-- ==================== GITHUB ACTIVITY ==================== -->
 
----
+## 📊 GitHub Activity
 
-## 🧠 Currently learning
+<p align="left">
+  <img
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MuhamadApipudin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&title_color=2563EB&icon_color=2563EB&text_color=E5E7EB&bg_color=0D1117"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadApipudin&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakNum=2563EB&currStreakLabel=2563EB&sideNums=E5E7EB&sideLabels=9CA3AF&dates=9CA3AF"
+    width="48%"
+    alt="GitHub Streak"
+  />
+</p>
 
-📚 JavaScript  
-⚛️ React  
-🐘 Laravel  
-🧩 Programming fundamentals  
-🌐 Better web development
+<p align="left">
+  <img
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MuhamadApipudin&layout=compact&count_private=true&hide_border=true&theme=dark&title_color=2563EB&text_color=E5E7EB&bg_color=0D1117"
+    width="42%"
+    alt="Top Languages"
+  />
+</p>
 
-> Learn → Build → Break → Understand → Improve 🔄
 
----
+<!-- ==================== BREAKOUT ==================== -->
 
-## 🏗️ Building & documenting
+<h2 align="center">🎮 Breakout My Contributions</h2>
 
-This GitHub is where I keep my projects,
-experiments, and things I'm learning along the way.
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MuhamadApipudin/MuhamadApipudin/github-breakout/images/breakout-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MuhamadApipudin/MuhamadApipudin/github-breakout/images/breakout-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/MuhamadApipudin/MuhamadApipudin/github-breakout/images/breakout-light.svg"
+      width="100%"
+      alt="GitHub Breakout contribution animation"
+    />
+  </picture>
+</p>
 
-Some projects work perfectly.  
-Some don't. 😅  
-Some are still being figured out. 🧩
+<p align="center">
+  🧱 Breaking contributions, one commit at a time.
+</p>
 
-But that's part of the journey. 🚀
 
----
+<!-- ==================== PERSONAL ==================== -->
 
-## 🤝 Let's connect
+## 🌱 Keep Building
 
-💼 LinkedIn  
-📸 Instagram  
-🐙 GitHub
+Still learning. Still making mistakes.
+Still figuring things out.
 
----
+> Build → Break → Learn → Improve → Repeat 🔁
 
-### 💙 Thanks for stopping by!
 
-**Keep building. Keep learning. Keep improving. 🚀**
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">📫 Find Me</h2>
+
+<p align="center">
+  <a href="https://github.com/MuhamadApipudin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhamadapipudin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:111827&height=120&section=footer"
+    width="100%"
+  />
+</p>
