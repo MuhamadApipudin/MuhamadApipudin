@@ -20,6 +20,7 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: MuhamadApipudin
+          enable_ghost_bricks: false
 
       - name: Configure Git
         run: |
